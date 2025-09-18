@@ -1,7 +1,0 @@
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\bin\Debug\ejercicioDOS.exe.config
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\bin\Debug\ejercicioDOS.exe
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\bin\Debug\ejercicioDOS.pdb
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\obj\Debug\ejercicioDOS.csproj.AssemblyReference.cache
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\obj\Debug\ejercicioDOS.csproj.CoreCompileInputs.cache
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\obj\Debug\ejercicioDOS.exe
-C:\Fabi\UNIVERSIDAD\ING . SIS\EJERCICIOS-SEMANA4\ejercicioDOS\obj\Debug\ejercicioDOS.pdb
